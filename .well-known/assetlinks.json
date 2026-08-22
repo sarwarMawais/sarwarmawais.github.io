@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.londontubeai.navigator",
+      "sha256_cert_fingerprints": [
+        "21:62:95:40:C8:66:9C:09:C4:EF:16:4F:A6:29:62:3C:29:F7:4F:0A:E7:D3:12:29:0A:DD:30:90:E8:27:BA:09",
+        "EF:76:28:51:AE:0F:29:49:ED:43:47:36:09:95:A2:4E:06:99:9D:D2:D2:F8:6D:ED:69:91:96:43:B6:89:0F:81"
+      ]
+    }
+  }
+]
